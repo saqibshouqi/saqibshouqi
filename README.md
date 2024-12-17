@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/saqib-shouqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/saqib-shouqi" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/mohamedsaqibshouqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mohamedsaqibshouqi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uclxrrilmixu7pi6sldg9wmq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uclxrrilmixu7pi6sldg9wmq" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@DataSciencewithSaqib-p9n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uclxrrilmixu7pi6sldg9wmq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
