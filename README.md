@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/saqib-shouqi/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/saqib-shouqi" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/mohamedsaqibshouqi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mohamedsaqibshouqi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@DataSciencewithSaqib-p9n" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uclxrrilmixu7pi6sldg9wmq" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@DataSciencewithSaqib1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uclxrrilmixu7pi6sldg9wmq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
