@@ -1,5 +1,5 @@
 <h1 align="center">Hi There, I'm Saqib!</h1>
-<h3 align="center">AI/ML & Full-Stack Engineer specializing in AI agents, multi-agent RAG systems, predictive analytics, and scalable intelligent applications. I build secure, production-grade AI solutions that transform complex business problems into real-world impact through a blend of engineering, AI/ML, and strategic business insight.</h3>
+<h3 align="center">AI/ML & Full-Stack Engineer building production-grade AI agents, multi-agent RAG systems, and scalable intelligent applications. I transform complex business problems into secure, high-impact AI/ML solutions that bridge advanced research with real-world business value.</h3>
 
 - Reach me at **saqibshouqi@gmail.com**
 
