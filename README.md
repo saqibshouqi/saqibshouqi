@@ -1,5 +1,5 @@
 <h1 align="center">Hi There, I'm Saqib!</h1>
-<h3 align="center">Passionate AI & Data Science student and aspiring innovator, building impactful solutions through continuous learning, creativity, and technology.</h3>
+<h3 align="center">AI/ML & Full-Stack Engineer specializing in production-grade AI agents, multi-agent RAG architectures, predictive analytics and scalable intelligent systems. I architect secure, end-to-end applications that transform complex business logic into high-impact AI/ML solutions. Blending technical expertise with strategic financial insight, I build resilient systems that turn advanced AI&ML research into real-world business value.</h3>
 
 - Reach me at **saqibshouqi@gmail.com**
 
