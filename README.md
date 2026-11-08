@@ -259,12 +259,12 @@ At **Sysco Labs** I built a multi-agent AI Agile Coach, an AI-driven engineering
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=saqibshouqi&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github">
-    <img alt="Saqib's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=saqibshouqi&show_icons=true&hide_border=true&theme=default&rank_icon=github" height="170">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saqibshouqi&theme=github_dark">
+    <img alt="Saqib's GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saqibshouqi&theme=default" width="49%">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=saqibshouqi&layout=compact&langs_count=8&hide_border=true&theme=github_dark">
-    <img alt="Saqib's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqibshouqi&layout=compact&langs_count=8&hide_border=true&theme=default" height="170">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saqibshouqi&theme=github_dark">
+    <img alt="Saqib's most used languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saqibshouqi&theme=default" width="49%">
   </picture>
 </div>
 
