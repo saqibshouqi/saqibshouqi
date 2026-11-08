@@ -1,134 +1,282 @@
-<!-- GitHub profile README | github.com/saqibshouqi -->
-
 <div align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=rect&amp;height=190&amp;color=0:0F172A,55:164E63,100:0369A1&amp;text=Mohamed%20Saqib%20Shouqi&amp;fontColor=FFFFFF&amp;fontSize=39&amp;fontAlignY=42&amp;desc=AI%20Engineer%20%7C%20Agentic%20AI%20%7C%20Machine%20Learning%20%7C%20Full-Stack&amp;descColor=E0F2FE&amp;descSize=17&amp;descAlignY=68"
-    alt="Mohamed Saqib Shouqi — AI Engineer"
-  />
 
-  <h3>Building reliable intelligence into real-world software.</h3>
-  <p>
-    Agentic systems &nbsp;·&nbsp; Applied machine learning &nbsp;·&nbsp; End-to-end engineering
-  </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Mohamed%20Saqib%20Shouqi&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Engineer%20%7C%20Agentic%20Systems%20%7C%20LLM%20Orchestration%20%7C%20RAG&descSize=16&descAlignY=60&animation=fadeIn" alt="Mohamed Saqib Shouqi, AI Engineer" width="100%">
 
-  <p>
-    <a href="https://www.linkedin.com/in/saqib-shouqi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:saqibshouqi@gmail.com"><img src="https://img.shields.io/badge/Email-334155?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
-    <a href="https://scholar.google.com/citations?hl=en&amp;user=2O32msoAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=white" alt="Google Scholar" /></a>
-    <a href="https://www.kaggle.com/mohamedsaqibshouqi"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white" alt="Kaggle" /></a>
-    <a href="https://www.youtube.com/@DataSciencewithSaqib1"><img src="https://img.shields.io/badge/YouTube-FF0033?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="YouTube" /></a>
-  </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=760&height=45&lines=Building+production-grade+AI+agents;Designing+multi-agent+RAG+systems;Turning+research+into+reliable+products;Bridging+AI+engineering+with+business+value" alt="Building production-grade AI agents, multi-agent RAG systems, and reliable research-to-product work">
+
+<p>
+  <i>I build production-grade AI agents, multi-agent RAG systems, and scalable intelligent applications,<br>
+  turning complex business problems into secure, high-impact solutions that bridge advanced research and real-world value.</i>
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/saqib-shouqi/"><img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E293B" alt="LinkedIn"></a>
+  <a href="https://www.kaggle.com/mohamedsaqibshouqi"><img src="https://img.shields.io/badge/Kaggle-Expert-2563EB?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=1E293B" alt="Kaggle"></a>
+  <a href="https://www.youtube.com/@DataSciencewithSaqib1"><img src="https://img.shields.io/badge/YouTube-Subscribe-2563EB?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1E293B" alt="YouTube"></a>
+  <a href="https://scholar.google.com/citations?hl=en&user=2O32msoAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-Publications-2563EB?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1E293B" alt="Google Scholar"></a>
+  <a href="mailto:saqibshouqi@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-2563EB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E293B" alt="Email"></a>
+</p>
+
+<p>
+  <a href="#about">About</a> &nbsp;·&nbsp;
+  <a href="#experience">Experience</a> &nbsp;·&nbsp;
+  <a href="#projects">Projects</a> &nbsp;·&nbsp;
+  <a href="#tech-stack">Tech Stack</a> &nbsp;·&nbsp;
+  <a href="#research">Research</a> &nbsp;·&nbsp;
+  <a href="#achievements">Achievements</a> &nbsp;·&nbsp;
+  <a href="#connect">Connect</a>
+</p>
+
 </div>
 
----
+<br>
 
-### About me
+## About
 
-I'm an **AI engineer and full-stack developer** working at the intersection of **agentic AI, machine learning, and scalable software engineering**. I enjoy taking ideas beyond prototypes—designing the data pipelines, agent workflows, APIs, and interfaces needed to make intelligent systems useful in practice.
+Hi, I'm **Saqib** 👋 I build AI systems that hold up beyond the demo. My work sits where **agentic AI**, **LLM orchestration**, **RAG pipelines**, and **predictive analytics** meet full-stack engineering and system design, with the business acumen that comes from CIMA training.
 
-- **Industry:** Former Software Engineering (AI) Intern at **Sysco Labs**, contributing to enterprise AI platforms and engineering analytics.
-- **Research:** Exploring **failure attribution and recovery in long-horizon LLM agents** to make autonomous systems more dependable.
-- **Education:** Final-year **BSc (Hons) AI & Data Science**, Robert Gordon University, through IIT Sri Lanka.
-- **Interests:** AI systems architecture, LLM evaluation, applied research, product engineering, and tech education.
+At **Sysco Labs** I built a multi-agent AI Agile Coach, an AI-driven engineering analytics dashboard with forecasting, and core workflows for the company's enterprise agentic ecosystem. Alongside engineering, I publish research on agent evaluation, failure attribution, and NLP-driven recommendation.
 
-### Engineering highlights
+> [!NOTE]
+> **Currently**
+>
+> - 🔬 Final-year research on **attribution-guided failure recovery for long-horizon LLM agents**
+> - 🎓 BSc (Hons) AI &amp; Data Science at **RGU, UK** (awarded via IIT, Sri Lanka), graduating **2027**
+> - 📈 **CIMA** Strategic Level in progress, with a perfect 150/150 in Financial Accounting
+
+<div align="center">
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3>15+ AI agents</h3>
-      <strong>Alfred · Multi-Agent Agile Coach</strong><br />
-      Built an AI assistant with intelligent routing, RAG, evaluation, guardrails, and connected enterprise workflows.
+    <td align="center" width="25%"><h3>15+</h3><sub>specialized agents orchestrated in <b>Alfred</b></sub></td>
+    <td align="center" width="25%"><h3>1,000+</h3><sub>agents across the <b>SAGE</b> ecosystem I contributed to</sub></td>
+    <td align="center" width="25%"><h3>3</h3><sub>research papers<br>ADScAI &amp; ICAC</sub></td>
+    <td align="center" width="25%"><h3>Top 6</h3><sub>Tech Triathlon grand finalist<br>among 170+ teams</sub></td>
+  </tr>
+</table>
+
+</div>
+
+### What I work on
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <b>🤖 Agentic AI &amp; LLM Orchestration</b><br>
+      <sub>Multi-agent systems, intelligent prompt routing, LLM evaluation, and guardrails for reliable agent behaviour.</sub>
     </td>
-    <td width="33%" valign="top">
-      <h3>Enterprise agentic AI</h3>
-      <strong>SAGE · Sysco Labs</strong><br />
-      Contributed core workflows and chat experiences to an ecosystem supporting <strong>100+ applications</strong> and <strong>1,000+ agents</strong>.
+    <td valign="top" width="50%">
+      <b>🔎 RAG &amp; Knowledge Systems</b><br>
+      <sub>Retrieval pipelines integrated with databases and workflow tools such as Jira, powering grounded, context-aware agents.</sub>
     </td>
-    <td width="33%" valign="top">
-      <h3>AI-driven analytics</h3>
-      <strong>DORA Metrics Dashboard</strong><br />
-      Led end-to-end work across ETL pipelines, backend APIs, React, and forecasting for engineering leadership insights.
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <b>📈 Predictive Analytics &amp; ML</b><br>
+      <sub>Forecasting with Prophet, classification, clustering, XGBoost, plus Edge AI for real-world sensing.</sub>
+    </td>
+    <td valign="top" width="50%">
+      <b>🧱 Full-Stack &amp; System Architecture</b><br>
+      <sub>React, FastAPI, Node.js, microservices, ETL pipelines, and clean API design on MongoDB and PostgreSQL.</sub>
     </td>
   </tr>
 </table>
 
-### Selected projects
+<br>
+
+## Experience
+
+### Software Engineering (AI) Intern · Sysco Labs
+<sub>SAGE Engineering Team (formerly the Enterprise Architecture Group) &nbsp;·&nbsp; June 2025 – June 2026</sub>
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🧪 <a href="https://github.com/saqibshouqi/red-team-ai">RedTeamAI</a></h3>
-      <strong>Multi-agent AI evaluation platform</strong><br /><br />
-      Led the architecture of a Target–Interrogator–Judge orchestration workflow for adversarial evaluation of role-playing language agents, including role consistency and robustness assessments.<br /><br />
-      <sub><strong>Focus:</strong> Multi-agent systems · LLM evaluation · AI reliability</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌾 <a href="https://github.com/saqibshouqi/Govi-Netha">Govi Netha</a></h3>
-      <strong>Smart irrigation with Edge AI</strong><br /><br />
-      Led an intelligent irrigation solution for paddy farming, combining ESP32-based inference, sensor monitoring, ML predictions, live alerts, and a mobile-first dashboard.<br /><br />
-      <sub><strong>Focus:</strong> Edge AI · Embedded systems · React</sub>
+    <th align="left" width="28%">Project</th>
+    <th align="left">What I built</th>
+  </tr>
+  <tr>
+    <td valign="top"><b>AI-Driven DORA Metrics Executive Dashboard</b></td>
+    <td valign="top">
+      Led end-to-end development of an AI-driven engineering analytics platform. ETL pipelines and a Base API layer bring data from <b>GitHub, Jira, Jenkins, and Paastry</b> into <b>MongoDB</b>, and a <b>React</b> dashboard with <b>Prophet-based forecasting</b> supports data-driven decisions by engineering leadership.
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>✈️ TravelMate AI</h3>
-      <strong>Personalized itinerary builder</strong><br /><br />
-      Built and commercialized an itinerary-generation system using NLP, a Random Forest-based activity recommender, and Llama 3.1 for personalized travel plans.<br /><br />
-      <sub><strong>Focus:</strong> NLP · Recommendation systems · LLM applications</sub>
+    <td valign="top"><b>Alfred</b><br><sub>Multi-agent AI Agile Coach</sub></td>
+    <td valign="top">
+      Engineered an assistant that orchestrates <b>15+ specialized agents</b> across RAG, databases, Jira, and product-vision workflows, with intelligent <b>prompt routing</b>, <b>LLM evaluation</b>, and <b>guardrails</b> to deliver personalized Agile coaching and operational insights.
     </td>
-    <td width="50%" valign="top">
-      <h3>🚚 PathWise</h3>
-      <strong>Intelligent delivery planning platform</strong><br /><br />
-      Led architecture and development for a delivery planning solution featuring constraint-aware fleet allocation and ML-based predictions for service time, lateness, and depot demand.<br /><br />
-      <sub><strong>Focus:</strong> Predictive ML · Optimization · Full-stack systems</sub>
+  </tr>
+  <tr>
+    <td valign="top"><b>SAGE</b><br><sub>Sysco Agentic Eco-System</sub></td>
+    <td valign="top">
+      Key engineering contributor to Sysco's enterprise agentic ecosystem, which supports <b>100+ applications and 1,000+ agents</b>. Engineered the end-to-end <b>use-case approval workflow</b> for secure AI deployments and significantly enhanced the <b>Common Chat Client</b>, the unified interface to enterprise AI agents.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Contractor Talent Acquisition Portal</b></td>
+    <td valign="top">Architected the backend services behind end-to-end contractor hiring workflows.</td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Project Summit</b><br><sub>Engineering Acceleration Program</sub></td>
+    <td valign="top">
+      Architected and built <b>Sysco Shop</b>, a microservices e-commerce platform with full system design and API specifications, and designed an ML solution for forecasting delivery metrics.
     </td>
   </tr>
 </table>
 
-### Technology stack
+<br>
+
+## Projects
+
+<table>
+  <tr>
+    <td valign="top">
+      <h3>Attribution-Guided Recovery for Long-Horizon LLM Agents</h3>
+      <sub><b>Final-Year Individual Research Project</b> &nbsp;·&nbsp; In progress</sub>
+      <p>Researching novel approaches to <b>detect, attribute, and recover from failures</b> in long-horizon LLM agents, improving agent reliability through intelligent error localization and recovery mechanisms.</p>
+      <code>LLM Agents</code> <code>Failure Attribution</code> <code>Error Localization</code> <code>Recovery</code> <code>Reliability</code>
+      <p><sub>Companion systematic review: <i>Toward Closing the Loop on Failure Attribution in Long-Horizon LLM Agents</i> (ICAC 2026)</sub></p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>TravelMate AI</h3>
+      <sub><b>Itinerary Builder</b> &nbsp;·&nbsp; Commercialized &nbsp;·&nbsp; Individual</sub>
+      <p>An intelligent itinerary generator built on <b>Llama 3.1</b> and a hybrid recommendation system. Commercialized with <i>Heart Attached</i> to automate personalized travel planning, and documented in a published research paper.</p>
+      <code>Llama 3.1</code> <code>NLP</code> <code>Random Forest</code> <code>Hybrid Recommender</code>
+      <p><a href="https://dl.lib.uom.lk/items/88fecb2e-25c6-464e-a39f-a7e0d191634f">📄 Read the paper</a></p>
+    </td>
+    <td valign="top" width="50%">
+      <h3>PathWise</h3>
+      <sub><b>Delivery Planning Platform</b> &nbsp;·&nbsp; Team Leader</sub>
+      <p>Led the architecture and hands-on development of an end-to-end delivery planning platform for a multi-brand retail network, combining <b>constraint-aware fleet allocation</b> with ML predictions of service time, lateness, and depot demand.</p>
+      <code>Fleet Allocation</code> <code>Predictive ML</code> <code>Full-Stack</code>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>Red Team AI</h3>
+      <sub><b>Adversarial Evaluation Platform</b> &nbsp;·&nbsp; Platform Lead &amp; Researcher</sub>
+      <p>Led a team building a production-grade platform for adversarial stress testing of <b>Role-Playing Language Agents</b>. Personally architected the core multi-agent orchestration (<b>Target, Interrogator, Judge</b>) that probes role drift and ethical robustness. Co-authored and presented the paper.</p>
+      <code>Multi-Agent Orchestration</code> <code>Adversarial Testing</code> <code>RPLAs</code>
+      <p><a href="https://openreview.net/forum?id=IQckaFtB5L">📄 Read the paper</a></p>
+    </td>
+    <td valign="top" width="50%">
+      <h3>Govi Netha</h3>
+      <sub><b>Smart Irrigation using Edge AI</b> &nbsp;·&nbsp; Project Lead</sub>
+      <p>Led the design and development of a low-cost intelligent irrigation system for <b>Sri Lankan paddy farming</b>: ESP32-based Edge AI, sensor monitoring, ML-based prediction, real-time alerts, and a mobile-first React dashboard. Contributed across hardware, ML, backend, and dashboard.</p>
+      <code>ESP32</code> <code>Edge AI</code> <code>Sensors</code> <code>ML</code> <code>React</code>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,fastapi,pytorch,tensorflow,opencv&amp;perline=10" alt="Languages, frontend, backend, and AI tools" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,aws,azure,gcp,git,github,figma&amp;perline=9" alt="Databases, cloud platforms, DevOps, and design tools" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,java,js,ts,r,pytorch,tensorflow,sklearn,pandas,numpy,opencv,fastapi,react,nodejs,postgres,mongodb,docker,git,githubactions,jenkins,aws,azure,gcp,postman&perline=12&theme=dark">
+    <img src="https://skillicons.dev/icons?i=py,java,js,ts,r,pytorch,tensorflow,sklearn,pandas,numpy,opencv,fastapi,react,nodejs,postgres,mongodb,docker,git,githubactions,jenkins,aws,azure,gcp,postman&perline=12&theme=light" alt="Python, Java, JavaScript, TypeScript, R, PyTorch, TensorFlow, scikit-learn, Pandas, NumPy, OpenCV, FastAPI, React, Node.js, PostgreSQL, MongoDB, Docker, Git, GitHub Actions, Jenkins, AWS, Azure, GCP, Postman">
+  </picture>
 </div>
 
-<br />
+<br>
 
-| Domain | Technologies and capabilities |
-| :--- | :--- |
-| **Agentic AI & LLMs** | Multi-agent orchestration, RAG, LangChain, prompt routing, evaluation, guardrails |
-| **ML & data** | scikit-learn, XGBoost, Prophet, Pandas, NumPy, forecasting, classification |
-| **Engineering** | Python, Java, TypeScript, React, Node.js, FastAPI, REST APIs, microservices |
-| **Platforms** | PostgreSQL, MongoDB, ETL, Spark, Airflow, Docker, GitHub Actions, cloud services |
+| Domain | Tools &amp; Concepts |
+| :-- | :-- |
+| **Languages** | `Python` `Java` `JavaScript` `TypeScript` `R` `SQL` |
+| **AI Engineering &amp; Agentic Systems** | `LLMs` `Multi-Agent Systems` `RAG` `LangChain` `Prompt Routing` `Evaluation` `Guardrails` |
+| **Machine Learning &amp; Statistics** | `scikit-learn` `XGBoost` `Prophet` `Pandas` `NumPy` `Forecasting` `Classification` `Clustering` |
+| **Deep Learning &amp; Computer Vision** | `PyTorch` `TensorFlow/Keras` `OpenCV` `Edge AI` |
+| **Full-Stack &amp; API Engineering** | `React` `Node.js` `FastAPI` `REST APIs` `Microservices` `System Architecture` |
+| **Data Engineering &amp; Databases** | `ETL Pipelines` `Spark/PySpark` `Airflow` `PostgreSQL` `MongoDB` |
+| **Cloud, DevOps &amp; MLOps** | `AWS` `Azure` `GCP` `Docker` `Git` `CI/CD (Jenkins, GitHub Actions)` `MLflow` |
 
-### Research & publications
+<br>
 
-- **ICAC 2026** · *Toward Closing the Loop on Failure Attribution in Long-Horizon LLM Agents: A Systematic Review, Taxonomy and Research Agenda*.
-- **ADScAI 2026** · [*RedTeamAI: Adversarial Stress Testing of Role-Playing Language Agents using Multi-Agent Evaluation*](https://openreview.net/forum?id=IQckaFtB5L).
-- **ADScAI 2025** · [*Intelligent Tourism Itinerary Generation Through Natural Language Processing and Hybrid Recommendation Systems*](https://dl.lib.uom.lk/items/88fecb2e-25c6-464e-a39f-a7e0d191634f).
+## Research
 
-### A few milestones
+| Paper | Venue |
+| :-- | :-- |
+| **RedTeamAI: Adversarial Stress Testing of Role-Playing Language Agents using Multi-Agent Evaluation**<br><sub><a href="https://openreview.net/forum?id=IQckaFtB5L">OpenReview</a></sub> | ADScAI 2026 |
+| **Intelligent Tourism Itinerary Generation Through Natural Language Processing and Hybrid Recommendation Systems**<br><sub><a href="https://dl.lib.uom.lk/items/88fecb2e-25c6-464e-a39f-a7e0d191634f">Read paper</a></sub> | ADScAI 2025 |
+| **Toward Closing the Loop on Failure Attribution in Long-Horizon LLM Agents: A Systematic Review, Taxonomy and Research Agenda** | ICAC 2026 |
 
-**AWS Certified AI Practitioner** · **Microsoft Azure AI Fundamentals (AI-900)** · **Kaggle Datasets & Notebooks Expert**
+<sub>ADScAI: Applied Data Science and Artificial Intelligence Conference &nbsp;·&nbsp; ICAC: International Conference on Advancements in Computing &nbsp;·&nbsp; <a href="https://scholar.google.com/citations?hl=en&user=2O32msoAAAAJ">Full list on Google Scholar</a></sub>
 
-**Tech Triathlon 2026:** Top 6 grand finalists (170+ teams) · **Haxmas Coding Competition:** 1st runners-up · **JapuraXtreme 2024:** 6th place (300+ teams)
+<br>
 
-### GitHub activity
+## Achievements
+
+### Certifications
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-Certified%20AI%20Practitioner-2563EB?style=flat-square&labelColor=1E293B" alt="AWS Certified AI Practitioner">
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-AI%20Fundamentals%20(AI--900)-2563EB?style=flat-square&labelColor=1E293B" alt="Microsoft Azure AI Fundamentals (AI-900)">
+  <img src="https://img.shields.io/badge/STEM%20Link-AI--Driven%20Full--Stack%20Developer-2563EB?style=flat-square&labelColor=1E293B" alt="AI-Driven Full-Stack Developer, STEM Link">
+  <img src="https://img.shields.io/badge/Postman-API%20Fundamentals%20Student%20Expert-2563EB?style=flat-square&labelColor=1E293B" alt="Postman API Fundamentals Student Expert">
+  <img src="https://img.shields.io/badge/Kaggle-Datasets%20%26%20Notebooks%20Expert-2563EB?style=flat-square&labelColor=1E293B" alt="Kaggle Datasets and Notebooks Expert">
+</p>
+
+### Competitions &amp; Hackathons
+
+| Result | Event |
+| :-- | :-- |
+| **Top 6 Grand Finalist** | Tech Triathlon (Rootcode), among 170+ teams and 1,100+ participants |
+| **1st Runner-Up** | Haxmas Coding Competition (Ascentic) |
+| **6th place** | JapuraXtreme 2024 (IEEE USJ), among 300+ teams |
+| **University Rank 11 · Country Rank 94** | IEEEXtreme 18.0 |
+
+<details>
+<summary><b>More competitions &amp; learning</b></summary>
+
+<br>
+
+- **Yarl Geek Challenge** (Startup/Innovation Pitch): shortlisted and competed in the final round in Jaffna
+- **CodeSprint** (Innovation Competition): shortlisted for the semi-final stage with an MVP for public bus transportation
+- **SLIIT AI Sprint** (Sysco Labs): built an MVP for Sysco Sales consultants
+- **Participant:** Predicta (AI Prediction Challenge, IEEE UoP) and CodeRally Coding Competition (IEEE Computer Society)
+- **Kaggle competitions:** Backpack Prediction, Insurance Regression, House Price Prediction, Titanic, Spaceship Titanic
+- **Courses:** Anthropic (Claude Code 101), Udemy (Large Language Models), Kaggle (Intermediate ML, Pandas, Python), and LinkedIn Learning (RAG and Fine-Tuning, Docker for Developers, React, JavaScript, NoSQL, R for Data Science, ML with Python, AWS, SQL, Generative AI, and more)
+
+</details>
+
+<br>
+
+## Beyond the Code
+
+- 🎙️ **Leadership &amp; debating:** former College English Debating Captain who organized Sri Lanka's largest BP-format debate tournament. Vice President of the English Literature &amp; Drama Society and the Islamic Society, Treasurer of the ICT Club, and an active member of the IEEE Student Branch and IIT Toastmasters Club.
+- 🎥 **[Data Science with Saqib](https://www.youtube.com/@DataSciencewithSaqib1):** my YouTube channel, where I publish comprehensive data science tutorials.
+- 🏃 **Endurance sports:** competitive duathlete with multiple half marathons (21 km) and long-distance cycling races behind me, and a former College U15 basketball player.
+
+<br>
+
+## GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saqibshouqi&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=67E8F9&amp;icon_color=38BDF8&amp;text_color=CBD5E1&amp;rank_icon=github" alt="GitHub activity statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqibshouqi&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=67E8F9&amp;text_color=CBD5E1&amp;langs_count=6" alt="Most used languages in public GitHub repositories" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=saqibshouqi&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github">
+    <img alt="Saqib's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=saqibshouqi&show_icons=true&hide_border=true&theme=default&rank_icon=github" height="170">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=saqibshouqi&layout=compact&langs_count=8&hide_border=true&theme=github_dark">
+    <img alt="Saqib's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqibshouqi&layout=compact&langs_count=8&hide_border=true&theme=default" height="170">
+  </picture>
 </div>
 
----
+<br>
+
+## Connect
 
 <div align="center">
-  <strong>Interested in reliable AI agents, applied ML, or building useful products?</strong>
-  <br /><br />
-  <a href="mailto:saqibshouqi@gmail.com">Let's connect</a> · <a href="https://www.linkedin.com/in/saqib-shouqi/">LinkedIn</a> · <a href="https://scholar.google.com/citations?hl=en&amp;user=2O32msoAAAAJ">Research</a>
-  <br /><br />
-  <sub>Research-minded. Engineering-driven. Focused on real-world impact.</sub>
+
+<p>Always happy to talk about agentic AI, LLM reliability, RAG systems, and applied ML.<br>
+The best way to reach me is <a href="mailto:saqibshouqi@gmail.com"><b>saqibshouqi@gmail.com</b></a> or <a href="https://www.linkedin.com/in/saqib-shouqi/"><b>LinkedIn</b></a>.</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=110&section=footer" alt="" width="100%">
+
 </div>
