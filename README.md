@@ -179,8 +179,8 @@ At **Sysco Labs** I built a multi-agent AI Agile Coach, an AI-driven engineering
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cjava%2Cjs%2Cts%2Cr%2Cpytorch%2Ctensorflow%2Csklearn%2Cpandas%2Cnumpy%2Copencv%2Cfastapi%2Creact%2Cnodejs%2Cpostgres%2Cmongodb%2Cdocker%2Cgit%2Cgithubactions%2Cjenkins%2Caws%2Cazure%2Cgcp%2Cpostman&perline=12&theme=dark">
-    <img src="https://skillicons.dev/icons?i=py%2Cjava%2Cjs%2Cts%2Cr%2Cpytorch%2Ctensorflow%2Csklearn%2Cpandas%2Cnumpy%2Copencv%2Cfastapi%2Creact%2Cnodejs%2Cpostgres%2Cmongodb%2Cdocker%2Cgit%2Cgithubactions%2Cjenkins%2Caws%2Cazure%2Cgcp%2Cpostman&perline=12&theme=light" alt="Python, Java, JavaScript, TypeScript, R, PyTorch, TensorFlow, scikit-learn, Pandas, NumPy, OpenCV, FastAPI, React, Node.js, PostgreSQL, MongoDB, Docker, Git, GitHub Actions, Jenkins, AWS, Azure, GCP, Postman">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cjava%2Cjs%2Cts%2Cr%2Cpytorch%2Ctensorflow%2Csklearn%2Copencv%2Cfastapi%2Creact%2Cnodejs%2Cpostgres%2Cmongodb%2Cdocker%2Cgit%2Cgithubactions%2Cjenkins%2Caws%2Cazure%2Cgcp%2Cpostman&perline=11&theme=dark">
+    <img src="https://skillicons.dev/icons?i=py%2Cjava%2Cjs%2Cts%2Cr%2Cpytorch%2Ctensorflow%2Csklearn%2Copencv%2Cfastapi%2Creact%2Cnodejs%2Cpostgres%2Cmongodb%2Cdocker%2Cgit%2Cgithubactions%2Cjenkins%2Caws%2Cazure%2Cgcp%2Cpostman&perline=11&theme=light" alt="Python, Java, JavaScript, TypeScript, R, PyTorch, TensorFlow, scikit-learn, OpenCV, FastAPI, React, Node.js, PostgreSQL, MongoDB, Docker, Git, GitHub Actions, Jenkins, AWS, Azure, GCP, Postman">
   </picture>
 </div>
 
