@@ -255,17 +255,10 @@ At **Sysco Labs** I built a multi-agent AI Agile Coach, an AI-driven engineering
 
 <br>
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saqibshouqi&theme=github_dark">
-    <img alt="Saqib's GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saqibshouqi&theme=default" width="49%">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saqibshouqi&theme=github_dark">
-    <img alt="Saqib's most used languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saqibshouqi&theme=default" width="49%">
-  </picture>
+  <img src="https://ghchart.rshah.org/2563EB/saqibshouqi" alt="Saqib's GitHub contribution graph" width="90%">
 </div>
 
 <br>
