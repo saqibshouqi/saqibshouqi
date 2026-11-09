@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Mohamed Saqib Shouqi, AI Engineer: agentic AI, LLM orchestration, RAG and predictive analytics" width="100%">
+<img src="./assets/hero.svg" alt="Mohamed Saqib Shouqi: AI Engineer, full-stack developer and researcher. Agentic AI, LLM orchestration, RAG and predictive analytics" width="100%">
 
 <br><br>
 
