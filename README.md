@@ -223,14 +223,6 @@ At **Sysco Labs** I built a multi-agent AI Agile Coach, an AI-driven engineering
 
 <br>
 
-## GitHub Activity
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/2563EB/saqibshouqi" alt="Saqib's GitHub contribution graph" width="96%">
-</div>
-
-<br>
-
 ## Connect
 
 <div align="center">
